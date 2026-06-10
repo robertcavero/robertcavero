@@ -4,17 +4,36 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&color=4F46E5&center=true&vCenter=true&width=600&lines=Computer+Science+Student;React+%7C+Next.js+%7C+TypeScript;AI+Engineering+%26+Machine+Learning;Building+Modern+Web+%26+AI+Solutions" />
   </a>
 </p>
+<table>
+<tr>
+<td width="60%">
+
+### 👨‍💻 About Me
+
+- 🎓 Computer Science Student
+- 🌐 Aspiring Web Developer
+- 🤖 Exploring AI Engineering
+- 🚀 Building modern web applications
 
 ```typescript
 const SaidOS = {
   role: "CS Student",
   tech: ["React", "Next.js", "TypeScript", "Node.js", "JavaScript"],
-  exploring: ["AI Engineering", "Machine Learning"],
+  exploring: ["AI Engineering"],
   interests: ["Web Dev", "AI", "Open Source"],
   goal: "Build scalable web & AI apps",
 };
 ```
 
+</td>
+
+<td align="center">
+
+<img width="400" height="300" alt="gary_gadget" src="https://github.com/user-attachments/assets/dcec50f1-597c-48d3-8974-3db7b0a23809" />
+
+</td>
+</tr>
+</table>
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RobertCavero/RobertCavero/output/pacman-contribution-graph-dark.svg">
