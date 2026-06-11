@@ -36,15 +36,15 @@ const SaidOS = {
 </table>
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RobertCavero/RobertCavero/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RobertCavero/RobertCavero/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RobertCavero/RobertCavero/output/pacman-contribution-graph.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/robertcavero/robertcavero/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/robertcavero/robertcavero/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/robertcavero/robertcavero/output/pacman-contribution-graph.svg">
 </picture>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RobertCavero&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  <a href="https://github.com/RobertCavero?tab=followers">
-    <img src="https://img.shields.io/github/followers/RobertCavero?label=Followers&style=flat&logo=github&color=0e75b6" alt="GitHub Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=robertcavero&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <a href="https://github.com/robertcavero?tab=followers">
+    <img src="https://img.shields.io/github/followers/robertcavero?label=Followers&style=flat&logo=github&color=0e75b6" alt="GitHub Followers"/>
   </a>
 </p>
 
