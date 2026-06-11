@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm SaidOS</h1>
+<h1 align="center">Hi 👋, I'm Robert Cavero</h1>
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&color=4F46E5&center=true&vCenter=true&width=600&lines=Computer+Science+Student;React+%7C+Next.js+%7C+TypeScript;AI+Engineering+%26+Machine+Learning;Building+Modern+Web+%26+AI+Solutions" />
