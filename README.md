@@ -100,4 +100,4 @@ const SaidOS = {
 
 ---
 > [!TIP]
-> Please go to my personal website for more info: <a href="https://robertcavero.com" target="_blank">robertcavero.com</a>
+> Please go to my personal website for more info: [robertcavero.com](https://www.robertcavero.com/)
